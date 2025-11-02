@@ -59,19 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ifttt/ifttt-original.svg" width="45" height="45" />        
 </p>
 
-
-# 💫About Me :
-## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
-
-### 💻 Backend Engineer | AI Automation Enthusiast | Mobile App Dev 
-
-### 🧠 About Me
-🚀 Passionate about building **scalable backend systems** and **intelligent automation platforms** powered by AI.  
-⚙️ Experienced in **designing APIs**, **orchestrating microservices**, and **automating cloud infrastructure**.  
-🌍 Currently working at **AVE GLOBAL**, focusing on **AI-driven workflows**, **DevOps pipelines**, and **system reliability**.  
-🎓 Studying **Software Engineering** at **Da Nang University of Technology (DUT)**.  
-💬 Love exploring **system architecture**, **distributed systems**, **LLM-based automation**, and **developer productivity tools**.  
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tai.nguyen.634129/) 
 
