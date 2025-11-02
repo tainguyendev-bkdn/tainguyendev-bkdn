@@ -1,16 +1,97 @@
-## Hi there 👋
+## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
 
-<!--
-**tainguyendev-bkdn/tainguyendev-bkdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Backend Engineer | AI Automation Enthusiast | Mobile App Dev 
 
-Here are some ideas to get you started:
+### 🧠 About Me
+🚀 Passionate about building **scalable backend systems** and **intelligent automation platforms** powered by AI.  
+⚙️ Experienced in **designing APIs**, **orchestrating microservices**, and **automating cloud infrastructure**.  
+🌍 Currently working at **AVE GLOBAL**, focusing on **AI-driven workflows**, **DevOps pipelines**, and **system reliability**.  
+🎓 Studying **Software Engineering** at **Da Nang University of Technology (DUT)**.  
+💬 Love exploring **system architecture**, **distributed systems**, **LLM-based automation**, and **developer productivity tools**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🖥️ Backend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height = "45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" />
+</p>
+
+### TechCore
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" height = "45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width ="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="45" height="45"  />
+</p>
+
+#### 🗄️ Database  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" />
+</p>
+
+ #### ☁️ DevOps & Cloud 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width ="45" height="45"/>
+</p>
+
+### 🧠 Network & System
+🌐 **Deep understanding of:**
+- TCP/IP, UDP, HTTP/HTTPS, DNS, NAT, VPN, Proxy  
+- Network security, tunneling (ZeroTier, Cloudflare Tunnel, WireGuard)  
+- Linux server administration and system hardening
+
+### 🧰 Other Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" width ="45" height = "45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ifttt/ifttt-original.svg" width="45" height="45" />        
+</p>
+
+
+# 💫About Me :
+## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
+
+### 💻 Backend Engineer | AI Automation Enthusiast | Mobile App Dev 
+
+### 🧠 About Me
+🚀 Passionate about building **scalable backend systems** and **intelligent automation platforms** powered by AI.  
+⚙️ Experienced in **designing APIs**, **orchestrating microservices**, and **automating cloud infrastructure**.  
+🌍 Currently working at **AVE GLOBAL**, focusing on **AI-driven workflows**, **DevOps pipelines**, and **system reliability**.  
+🎓 Studying **Software Engineering** at **Da Nang University of Technology (DUT)**.  
+💬 Love exploring **system architecture**, **distributed systems**, **LLM-based automation**, and **developer productivity tools**.  
+
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tai.nguyen.634129/) 
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=tainguyendev-bkdn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tainguyendev-bkdn&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyendev-bkdn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=tainguyendev-bkdn&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=tainguyendev-bkdn&icon=2&color=9)](https://visitcount.itsvg.in)
+
+
