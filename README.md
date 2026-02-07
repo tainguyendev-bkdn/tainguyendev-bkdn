@@ -5,7 +5,7 @@
 ### 🧠 About Me
 🚀 Passionate about building **scalable backend systems** and **intelligent automation platforms** powered by AI.  
 ⚙️ Experienced in **designing APIs**, **orchestrating microservices**, and **automating cloud infrastructure**.  
-🌍 Currently working at **AVE GLOBAL**, focusing on **AI-driven workflows**, **DevOps pipelines**, and **system reliability**.  
+🌍 Currently working at **MIWAY**, focusing on **AI-driven workflows**, **DevOps pipelines**, and **system reliability**.  
 🎓 Studying **Software Engineering** at **Da Nang University of Technology (DUT)**.  
 💬 Love exploring **system architecture**, **distributed systems**, **LLM-based automation**, and **developer productivity tools**.  
 
