@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
 
-### 💻 Backend Engineer | AI Automation Enthusiast | Mobile App Dev 
+### 💻 Backend Engineer | AI Automation Enthusiast | WebDeveloper 
 
 ### 🧠 About Me
 🚀 Passionate about building **scalable backend systems** and **intelligent automation platforms** powered by AI.  
