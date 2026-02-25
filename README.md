@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
+`## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
 
 ### 💻 Backend Engineer | AI Automation Enthusiast | WebDeveloper 
 
@@ -41,12 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" />
 </p>
-
-### 🧠 Network & System
-🌐 **Deep understanding of:**
-- TCP/IP, UDP, HTTP/HTTPS, DNS, NAT, VPN, Proxy  
-- Network security, tunneling (ZeroTier, Cloudflare Tunnel, WireGuard)  
-- Linux server administration and system hardening
 
 ### 🧰 Other Tools
 
