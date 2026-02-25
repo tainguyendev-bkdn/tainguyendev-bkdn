@@ -1,4 +1,4 @@
-`## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
+## Hi there 👋 I'm Tài Nguyễn (Tai Nguyen aka Type if u want :D)
 
 ### 💻 Backend Engineer | AI Automation Enthusiast | WebDeveloper 
 
