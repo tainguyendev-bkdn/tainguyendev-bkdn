@@ -54,9 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ifttt/ifttt-original.svg" width="45" height="45" />        
 </p>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tai.nguyen.634129/) 
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tainguyendev-bkdn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tainguyendev-bkdn&theme=radical&hide_border=false)<br/>
